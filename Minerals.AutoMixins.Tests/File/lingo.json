@@ -1,0 +1,36 @@
+﻿{
+  "metadata": {
+    "version": "0.0.0",
+    "languages": ["nl", "fr"]
+  },
+  "phrases": {
+    "Sorry for the inconvenience.": {
+      "nl": "Sorry voor het ongemak.",
+      "fr": "Désolé pour le dérangement."
+    },
+    "Goodbye": {
+      "nl": "Tot ziens",
+      "fr": "Au revoir"
+    },
+    "Hello": {
+      "nl": "Hallo",
+      "fr": "Bonjour"
+    },
+    "Select a(n) {Noun}": {
+      "nl": "Selecteer een {Noun}",
+      "fr": "Sélectionnez un(e) {Noun}"
+    }
+  },
+  "nouns": {
+    "World": {
+      "en": ["world", "worlds"],
+      "nl": ["wereld", "werelden"],
+      "fr": ["monde", "mondes"]
+    },
+    "Person": {
+      "en": ["person", "people"],
+      "nl": ["persoon", "mensen"],
+      "fr": ["personne", "personnes"]
+    }
+  }
+}

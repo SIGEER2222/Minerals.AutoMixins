@@ -29,4 +29,10 @@
         <PackageReference Include="MSTest.TestFramework" Version="3.*" />
     </ItemGroup>
 
+    <ItemGroup>
+        <Content Include="File/lingo.json">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+    </ItemGroup>
+
 </Project>
